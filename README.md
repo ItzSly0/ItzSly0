@@ -20,6 +20,9 @@ I'm Tjay and I typically work with Python and Lua. I started learning how to cod
 ## Languages I know
 * Lua
 * Python
+* JavaScript
+* js
+* HTML
 
 ## Goals
 * Learn Lua
