@@ -1,16 +1,35 @@
-### Hi there 👋
+<h1 align="center">Hey I'm Tjay 👋</h1>
 
-<!--
-**Tjay0/Tjay0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
 
-Here are some ideas to get you started:
+  [![wakatime](https://wakatime.com/badge/user/198b5788-cbba-42f5-814a-88c514254ee6/project/c3a8d81d-498c-4097-ba86-013aa960533a.svg)](https://wakatime.com/@0ccf7ed5-30a2-486d-8ea4-6b0ca58cd9c9)
+  ![](https://komarev.com/ghpvc/?username=verlox&color=blueviolet)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  <img src="https://discord.c99.nl/widget/theme-4/947293287683866624.png"></img>
+
+  ![Verlox's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tjay0&show_icons=true&theme=radical)
+</div>
+
+## About
+I'm Tjay and I typically work with Python and Lua. I started learning how to code about 2017-18, when I was bored grown on me, as well as learning about how computers interact with others and how they work internally. Hopefully in the future, I can get into software development.
+
+## What I'm currently working on
+* Discord Cloner [Tjay-ClonerV1](https://github.com/Tjay0/Tjay-ClonerV1)
+* Learning Lua
+
+## Languages I know
+* Lua
+* Python
+
+## Goals
+* Learn Lua
+
+
+## Links
+* [Site](Cooming Soon)
+* [Lcproxy Discord](https://discord.gg/5QbE9GRnGV)
+
+## Disclaimer
+All the code and projects provided (to you, from me) are strictly for educational purposes. I do not encourage use of any of my projects, and they are simply to be used as a proof-of-concept.
+
+</div>
