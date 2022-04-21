@@ -10,8 +10,7 @@
   ![Verlox's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tjay0&show_icons=true&theme=radical)
 </div>
 
-<div align="center">
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31t3kh7s7df2zgealzzqv3fuckb4&cover_image=true&theme=default&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31t3kh7s7df2zgealzzqv3fuckb4&cover_image=true&theme=natemoo-re&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 
 </div>
 
