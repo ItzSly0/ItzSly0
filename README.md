@@ -27,6 +27,7 @@ I'm Tjay and I typically work with Python and Lua. I started learning how to cod
 * Learning Lua
 
 <h1 align="center">Languages I know🕹️</h1>
+
 * Lua
 * Python
 * JavaScript
@@ -34,14 +35,17 @@ I'm Tjay and I typically work with Python and Lua. I started learning how to cod
 * HTML
 
 ## Goals
+
 * Learn Lua
 
 
 <h1 align="center">Links⌨️</h1>
+
 * [Site](Cooming Soon)
 * [Lcproxy Discord](https://discord.gg/5QbE9GRnGV)
 
 <h1 align="center">©️Disclaimer©️</h1>
+
 All the code and projects provided (to you, from me) are strictly for educational purposes. I do not encourage use of any of my projects, and they are simply to be used as a proof-of-concept.
 
 </div>
