@@ -13,6 +13,7 @@ nn<h1 align="center">Hey I'm Tjay 👋</h1>
 <p align="center">
   <a href="https://open.spotify.com/user/31t3kh7s7df2zgealzzqv3fuckb4?si=9c60b46d98414770">
     <img src="https://spotify-github-profile.vercel.app/api/view?uid=31urux6tuxn5jkf3bonrhiad7lai&cover_image=true&theme=default&bar_color=b9f0b7)](https://github.com/kittinan/spotify-github-profile">
+    
 </div>
 
 ## About
