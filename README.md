@@ -22,6 +22,7 @@ I'm Tjay and I typically work with Python and Lua. I started learning how to cod
 </div>
 
 <h1 align="center">What I'm currently working on👾</h1>
+
 * Discord Cloner [Tjay-ClonerV1](https://github.com/Tjay0/Tjay-ClonerV1)
 * Learning Lua
 
