@@ -17,15 +17,15 @@
 
 </div>
 
-## About
+<h1 align="center">About👤</h1>
 I'm Tjay and I typically work with Python and Lua. I started learning how to code about 2017-18, when I was bored grown on me, as well as learning about how computers interact with others and how they work internally. Hopefully in the future, I can get into software development.
 </div>
 
-## What I'm currently working on
+<h1 align="center">What I'm currently working on👾</h1>
 * Discord Cloner [Tjay-ClonerV1](https://github.com/Tjay0/Tjay-ClonerV1)
 * Learning Lua
 
-## Languages I know
+<h1 align="center">Languages I know🕹️</h1>
 * Lua
 * Python
 * JavaScript
@@ -36,11 +36,11 @@ I'm Tjay and I typically work with Python and Lua. I started learning how to cod
 * Learn Lua
 
 
-## Links
+<h1 align="center">Links⌨️</h1>
 * [Site](Cooming Soon)
 * [Lcproxy Discord](https://discord.gg/5QbE9GRnGV)
 
-## Disclaimer
+<h1 align="center">©️Disclaimer©️</h1>
 All the code and projects provided (to you, from me) are strictly for educational purposes. I do not encourage use of any of my projects, and they are simply to be used as a proof-of-concept.
 
 </div>
