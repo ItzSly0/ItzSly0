@@ -2,10 +2,15 @@
 
 <div align="center">
 
-  [![wakatime](https://wakatime.com/badge/user/198b5788-cbba-42f5-814a-88c514254ee6/project/c3a8d81d-498c-4097-ba86-013aa960533a.svg)](https://wakatime.com/@0ccf7ed5-30a2-486d-8ea4-6b0ca58cd9c9)
+  [![wakatime](https://wakatime.com/badge/user/198b5788-cbba-42f5-814a-88c514254ee6/project/c3a8d81d-498c-4097-ba86-013aa960533a.svg)](https://wakatimnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnne.com/@0ccf7ed5-30a2-486d-8ea4-6b0ca58cd9c9)
   ![](https://komarev.com/ghpvc/?username=verlox&color=blueviolet)
 
   <img src="https://discord.c99.nl/widget/theme-4/947293287683866624.png"></img>
+  
+  ### Escuchando Spotify 🎧
+<p align="center">
+  <a href="https://open.spotify.com/user/31t3kh7s7df2zgealzzqv3fuckb4?si=9c60b46d98414770">
+    <img src="https://spotify-github-profile.vercel.app/api/view?uid=31urux6tuxn5jkf3bonrhiad7lai&cover_image=true&theme=default&bar_color=b9f0b7)](https://github.com/kittinan/spotify-github-profile">
 
   ![Verlox's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tjay0&show_icons=true&theme=radical)
 </div>
