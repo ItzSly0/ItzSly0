@@ -16,6 +16,7 @@ nn<h1 align="center">Hey I'm Tjay 👋</h1>
 
 ## About
 I'm Tjay and I typically work with Python and Lua. I started learning how to code about 2017-18, when I was bored grown on me, as well as learning about how computers interact with others and how they work internally. Hopefully in the future, I can get into software development.
+</div>
 
 ## What I'm currently working on
 * Discord Cloner [Tjay-ClonerV1](https://github.com/Tjay0/Tjay-ClonerV1)
