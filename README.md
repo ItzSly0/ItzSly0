@@ -41,7 +41,7 @@ I'm Tjay and I typically work with Python and Lua. I started learning how to cod
 
 <h1 align="center">Links⌨️</h1>
 
-* [Site](Cooming Soon)
+* [Site](http://www.tjay.gq/#home)
 
 <h1 align="center">©️Disclaimer©️</h1>
 
